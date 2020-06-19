@@ -5,7 +5,7 @@ A fully functional Self-Driving Car implemented with Convolutional Neural Networ
 Download and watch "Self Driving Car Video" to see the simulation in action!
 
 # Behavioural Cloning
-To view the implementation of machine learning, check out the Behavioural Cloning folder
+To view the implementation of Convolutional Neural Networks and Computer Vision, check out the Behavioural Cloning folder
 
 # Behavioural Cloning
 To view how the simulation software was connected with the processed data, check out the DriveCar folder
